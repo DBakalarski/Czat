@@ -22,10 +22,14 @@
     "optimize-js-plugin": "0.0.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-hot-loader": "^4.3.3",
     "socket.io": "^2.1.1",
     "socket.io-client": "^2.1.1",
     "style-loader": "^0.21.0",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.2"
+  },
+  "devDependencies": {
+    "hot-module-replacement": "^3.0.1"
   }
 }
